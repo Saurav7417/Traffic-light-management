@@ -45,7 +45,7 @@ Vehicles ≥ 15 → 45 sec
 ✔ Ensures optimal traffic flow and avoids starvation of lanes
 
 ▶️ How to Run
-git clone https://github.com/your-username/traffic-management-system.git
+git clone https://github.com/Saurav7417/traffic-management-system.git
 cd traffic-management-system
 python main.py
 
