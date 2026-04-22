@@ -1,4 +1,4 @@
-# 🚦 Smart Traffic Management System
+# 🚦 Traffic light management
 
 A modern, cross-platform intelligent traffic management solution built with Kotlin Multiplatform, designed to optimize traffic flow, reduce congestion, and improve urban mobility through real-time monitoring and adaptive signal control.
 
