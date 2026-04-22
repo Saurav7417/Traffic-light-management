@@ -143,8 +143,8 @@ Smart-Traffic-Management-System/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Alims-Repo/Smart-Traffic-Management-System.git
-   cd Smart-Traffic-Management-System
+   git clone https://github.com/Saurav7417/Traffic-light-management.git
+   cd Traffic-light-management
    ```
 
 2. **Build the project**
@@ -284,8 +284,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👥 Authors
 
 **Alims-Repo**
-- GitHub: [@Alims-Repo](https://github.com/Alims-Repo)
-- Email: sourav.0.alim@gmail.com
+- GitHub: [@Alims-Repo](https://github.com/Saurav7417)
+- Email: sauravshukla777@gmail.com
 
 ---
 
@@ -302,7 +302,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, suggestions, or support:
 - Open an issue on GitHub
-- Email: sourav.0.alim@gmail.com
+- Email: sauravshukla777@gmail.com
 
 ---
 
